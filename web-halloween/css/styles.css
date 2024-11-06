@@ -1,0 +1,11 @@
+body{
+    background-image: url(../img/jargoling.jpg);
+    background-size: cover;
+}
+h1{
+    color: rgb(186, 56, 212);
+}
+.imagen{
+height: 300px;
+width: 300px;
+}
