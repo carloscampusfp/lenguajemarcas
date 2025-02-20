@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalogo SYSTEM "file:/C:/Code/Marca/XML/repaso.dtd">
+<?xml-stylesheet type="text/xsl" href="file:/C:/Code/Marca/XML/repaso.xsl"?>
+<catalogo>
+    <libro>
+        <titulo>El Quijote</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <anio>1605</anio>
+        <precio moneda="EUR">22.99</precio>
+    </libro>
+    <libro>
+        <titulo>Cien años de soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <anio>1967</anio>
+        <precio moneda="USD">15.50</precio>
+    </libro>
+    <libro>
+        <titulo>La utilidad de lo inutil</titulo>
+        <autor>Nuccio Ordine</autor>
+        <anio>2023</anio>
+        <precio moneda="EUR">10.00</precio>
+    </libro>
+    <libro>
+        <titulo>El piloto que lanzo la bomba de hiroshima</titulo>
+        <autor>Gunter Anders</autor>
+        <anio>1980</anio>
+        <precio moneda="EUR">15.50</precio>
+    </libro>
+    <libro>
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <anio>1949</anio>
+        <precio moneda="EUR">12.99</precio>
+    </libro>
+    <libro>
+        <titulo>Un mundo feliz</titulo>
+        <autor>Aldous Huxley</autor>
+        <anio>1932</anio>
+        <precio moneda="EUR">14.75</precio>
+    </libro>
+    <libro>
+        <titulo>Fahrenheit 451</titulo>
+        <autor>Ray Bradbury</autor>
+        <anio>1953</anio>
+        <precio moneda="EUR">13.50</precio>
+    </libro>
+</catalogo>

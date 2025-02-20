@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE notas SYSTEM "file:/C:/Code/Marca/XML/repasdo.dtd">
+<notas>
+  <alumno1>
+    <nota1>5</nota1>
+    <nota2>7</nota2>
+    <nota3>4.5</nota3>
+    <media>5.5</media>
+  </alumno1>
+  <alumno2>
+    <nota1>10</nota1>
+    <nota2>2</nota2>
+    <nota3>8</nota3>
+    <media>6.66</media>
+  </alumno2>
+  <alumno3>
+    <nota1>6.5</nota1>
+    <nota2>7.5</nota2>
+    <nota3>7</nota3>
+    <media>7</media>
+  </alumno3>
+</notas>
